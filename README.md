@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+brain&weight=300&size=29&duration=3000&pause=500&color=F70C0C&background=00FF4900&center=true&vCenter=true&width=435&lines=hello!;I'm+Ashutosh)](https://git.io/typing-svg)
 
-🎓 I'm a high school student (Class 12) passionate about **technology**, **design**, and **development**.  
+🎓 I'm a high school student passionate about **technology**, **design**, and **development**.  
 💡 I love coding and designing.
 
 ## What I like to do
