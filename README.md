@@ -4,9 +4,6 @@
   <img src="https://github.com/user-attachments/assets/12bf706d-126b-460c-a7bf-db346af68439" width="200">
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+brain&weight=300&size=29&duration=3000&pause=500&color=F70C0C&background=00FF4900&center=true&vCenter=true&width=435&lines=hello!;I'm+Ashutosh)](https://git.io/typing-svg)
-
 🎓 I'm a high school student passionate about **technology**, **design**, and **development**.  
 💡 I love coding and designing.
 
